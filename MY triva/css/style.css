@@ -1,0 +1,85 @@
+.space{
+    margin-top: 10rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.textmove{
+    display: flex;
+    justify-content: center;
+}
+.Btnmove{
+    display: flex;
+    justify-content: center;
+}
+.opbackground{
+background-image: url("/imgs/images.png");
+background-position: center;
+background-repeat: no-repeat;
+height: 32.8rem;
+width: 53.5rem;
+}
+.myBG{
+     background-image: url("/imgs/Main\ menu.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 25rem;
+} 
+.defcolor{
+    color: red;
+}
+.greyBG{
+    background-color: darkgrey;
+} 
+
+  
+.MyBtn{
+        color:green;
+        background-color: darkgray;
+        border-color: black;
+        border-radius: 5%
+        
+  
+  }
+  .MyBtn2{
+        color:white;
+        background-color:black;
+        border-color: white;
+        border-radius: 5%
+  
+  }
+   .MyBtn3{
+        color:red;
+        background-color:black;
+        border-color: white;
+        border-radius: 5%
+        
+    }
+   
+    .btn:hover {
+  
+  color: white;
+  background-color: black;
+}
+.divider{
+    padding: 1rem;
+}
+.Moveleft{
+   position: relative;
+   left: 15rem;
+}
+.triviaBG{
+    background-image: url("/imgs/trivia.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: black; 
+    height: 100%;
+    background-size: 100%;
+}
+.myBorder{
+    color:white;
+   
+}
+.myfont{
+    font-size: 2rem;
+}

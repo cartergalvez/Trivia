@@ -1,0 +1,1219 @@
+{
+    "easyMode": [
+        {
+            "Q": "Where do you first start?",
+            "a1": "A House",
+            "a2": "A Camp",
+            "a3": "A Asylum",
+            "a4": "A sematary",
+            "c": "A Asylum"
+        },
+        {
+            "Q": "Witch one is not a class",
+            "a1": "Knight",
+            "a2": "Cleric",
+            "a3": "Warrior",
+            "a4": "Priest",
+            "c": "Priest"
+        },
+        {
+            "Q": "what is use to heal",
+            "a1": "estus flask",
+            "a2": "Souls",
+            "a3": "waiting",
+            "a4": "Holy Water",
+            "c": "estus flask"
+        },
+        {
+            "Q": "what takes you to fireshrine.",
+            "a1": "A giant crow",
+            "a2": "A dragon",
+            "a3": "A cat",
+            "a4": "A giant person",
+            "c": "A giant crow"
+        },
+        {
+            "Q": "What is used to kindle a bone fire",
+            "a1": "Humanity",
+            "a2": "Souls",
+            "a3": "Ember",
+            "a4": "none of these",
+            "c": "Humanity"
+        },
+        {
+            "Q": "What does the most damge to the first boss",
+            "a1": "light attack",
+            "a2": "magic",
+            "a3": "heavy attack",
+            "a4": "plunging attack",
+            "c": "plunging attack"
+        },
+        {
+            "Q": "what from do you spawn in as.",
+            "a1": "human",
+            "a2": "zombie",
+            "a3": "hollow",
+            "a4": "kindle",
+            "c": "hollow"
+        },
+        {
+            "Q": "What are the check points called",
+            "a1": "campfire",
+            "a2": "bonefire",
+            "a3": "saving fire",
+            "a4": "safe zone",
+            "c": "bonefire"
+        },
+        {
+            "Q": "what happens when you die",
+            "a1": "respawn at bonefire",
+            "a2": "Game restarts",
+            "a3": "You quit",
+            "a4": "respawn at campfire",
+            "c": "respawn at bonefire"
+        },
+        {
+            "Q": "What do you have a chance of getting back when you die",
+            "a1": "all your homewardbones",
+            "a2": "all your money back",
+            "a3": "all your estus flask",
+            "a4": "get souls back",
+            "c": "get souls back"
+        },
+        {
+            "Q": "What is the easiest class to start with",
+            "a1": "bandit",
+            "a2": "Hunter",
+            "a3": "Knight",
+            "a4": "Cleric",
+            "c": "Knight"
+        },
+        {
+            "Q": "What is the first boss called",
+            "a1": "undead demon",
+            "a2": "Asylum Demon",
+            "a3": "Hell Demon",
+            "a4": "undead guard",
+            "c": "Asylum Demon"
+        },
+        {
+            "Q": "What is the place called after the first stage",
+            "a1": "Hud",
+            "a2": "firelink shrine",
+            "a3": "Homebase",
+            "a4": "Fireshrine",
+            "c": "firelink shrine"
+        },
+        {
+            "Q": "what is the boss on the bridge called",
+            "a1": "Hell Demon",
+            "a2": "taurus demon",
+            "a3": "bridge Demon",
+            "a4": "Demon",
+            "c": "taurus demon"
+        },
+        {
+            "Q": "What is the white soap stone used for?",
+            "a1": "To summon help",
+            "a2": "To be summoned",
+            "a3": "TO restart",
+            "a4": "TO summon bosses",
+            "c": "To be summoned"
+        },
+        {
+            "Q": "is a invader friendly",
+            "a1": "No",
+            "a2": "Yes",
+            "a3": "when summoned",
+            "a4": "when offline",
+            "c": "No"
+        },
+        {
+            "Q": "what item is used to summon help",
+            "a1": "White soap stone",
+            "a2": "Red soap stone",
+            "a3": "Green soap stone",
+            "a4": "orange soap stone",
+            "c": "White soap stone"
+        },
+        {
+            "Q": "what drops humanity offten in the beinging levels",
+            "a1": "Rats",
+            "a2": "Undead",
+            "a3": "Monsters",
+            "a4": "Dogs",
+            "c": "Rats"
+        },
+        {
+            "Q": "what is your first goal",
+            "a1": "To rings the bells",
+            "a2": "To kill everyone",
+            "a3": "To die",
+            "a4": "None of these",
+            "c": "To rings the bells"
+        },
+        {
+            "Q": "what poinses you in the beinging",
+            "a1": "Dogs",
+            "a2": "Snakes",
+            "a3": "Rats",
+            "a4": "Spiders",
+            "c": "Rats"
+        },
+        {
+            "Q": "where is the first black smith",
+            "a1": "Undead Burg",
+            "a2": "Undead Asylum",
+            "a3": "Prison",
+            "a4": "FireLink",
+            "c": "Undead Burg"
+        },
+        {
+            "Q": "what is used to upgrade most weapons and armor",
+            "a1": "titanite",
+            "a2": "iron",
+            "a3": "gold",
+            "a4": "metal",
+            "c": "titanit"
+        },
+        {
+            "Q": "what is used to restore you back to human",
+            "a1": "Souls",
+            "a2": "Gold Coin",
+            "a3": "Not dieing",
+            "a4": "Humanity",
+            "c": "Humanity"
+        },
+        {
+            "Q": "what are the basic enemy called",
+            "a1": "death",
+            "a2": "hollows",
+            "a3": "basic",
+            "a4": "undeads",
+            "c": "hollows"
+        },
+        {
+            "Q": "what caures poison",
+            "a1": "moss clump",
+            "a2": "gold coin",
+            "a3": "coal",
+            "a4": "poison gem",
+            "c": "moss clump"
+        },
+        {
+            "Q": "what lights the brige on fire",
+            "a1": "A dragon",
+            "a2": "A person",
+            "a3": "A demon",
+            "a4": "A inavder",
+            "c": "A dragon"
+        },
+        {
+            "Q": "what is a cracked red eye orb used for",
+            "a1": "To invade",
+            "a2": "To kill",
+            "a3": "To heal",
+            "a4": "To Steal",
+            "c": "To invade"
+        },
+        {
+            "Q": "what is a white summon called",
+            "a1": "Phantom",
+            "a2": "Ghost",
+            "a3": "Invaders",
+            "a4": "Helpers",
+            "c": "Phantom"
+        },
+        {
+            "Q": "what restores estus flask",
+            "a1": "BoneFire",
+            "a2": "Heal gems",
+            "a3": "souls restores",
+            "a4": "Kiling",
+            "c": "BoneFire"
+        },
+        {
+            "Q": "what can't heal you",
+            "a1": "souls",
+            "a2": "Estus",
+            "a3": "Humanity",
+            "a4": "Divine blessing",
+            "c": "souls"
+        },
+        {
+            "Q": "what ring boost your defense when health is low",
+            "a1": "Blue Tear stone ring",
+            "a2": "defenes ring",
+            "a3": "Red ring",
+            "a4": "Bleeders ring",
+            "c": "Blue Tear stone ring"
+        },
+        {
+            "Q": "what weapon do you start with",
+            "a1": "broken sword",
+            "a2": "nothing",
+            "a3": "club",
+            "a4": "axes",
+            "c": "broken sword"
+        },
+        {
+            "Q": "what is the boss called before you ring the First bell",
+            "a1": "Bell Gargoyle",
+            "a2": "Guard",
+            "a3": "Undead Death",
+            "a4": "Mirror Beast",
+            "c": "Bell Gargoyle"
+        },
+        {
+            "Q": "when do you get a white soap stone",
+            "a1": "After taurus",
+            "a2": "Before taurus",
+            "a3": "After Killig 5 bosses",
+            "a4": "After 10th Death",
+            "c": "After taurus"
+        },
+        {
+            "Q": "what is a hollow?",
+            "a1": "a enemy",
+            "a2": "dead",
+            "a3": "help",
+            "a4": "good",
+            "c": "a enemy"
+        },
+        {
+            "Q": "how do you get the gate open to sins fortrass",
+            "a1": "ring the bells",
+            "a2": "get key of hollow",
+            "a3": "get gate key",
+            "a4": "blow up door",
+            "c": "ring the bells"
+        },
+        {
+            "Q": "what is sin fortrass",
+            "a1": "a trap dongon",
+            "a2": "hevean",
+            "a3": "hell",
+            "a4": "kill me",
+            "c": "a trap dongon"
+        },
+        {
+            "Q": "what are black knights",
+            "a1": "mini bosses",
+            "a2": "friends",
+            "a3": "basic enemy",
+            "a4": "heros",
+            "c": "mini bosses"
+        },
+        {
+            "Q": "what is the mini boss is next to the first black smith",
+            "a1": "titanite demon",
+            "a2": "gem demon",
+            "a3": "shard demon",
+            "a4": "iron demon",
+            "c": "titanite demon"
+        },
+        {
+            "Q": "where is the frist merchant",
+            "a1": "undead burg",
+            "a2": "undead Asylm",
+            "a3": "prison",
+            "a4": "bone fire",
+            "c": "undead burg"
+        },
+        {
+            "Q": "how do you get summoned",
+            "a1": "By your summon sign",
+            "a2": "randomly",
+            "a3": "look for group",
+            "a4": "invading",
+            "c": "By your summon sign"
+        },
+        {
+            "Q": "what is a invaders goal",
+            "a1": "To kill the host",
+            "a2": "To kill enemys",
+            "a3": "To steal stuff",
+            "a4": "To heal you",
+            "c": "To kill the host"
+        },
+        {
+            "Q": "what does a white summon get for helping",
+            "a1": "souls and huminity",
+            "a2": "nothing",
+            "a3": "gold",
+            "a4": "stronger",
+            "c": "souls and huminity"
+        },
+        {
+            "Q": "is Dark souls easy",
+            "a1": "no",
+            "a2": "yes",
+            "a3": "after you learn",
+            "a4": "never",
+            "c": "after you learn"
+        },
+        {
+            "Q": "what item returns you too the bonefire",
+            "a1": "home ward bone",
+            "a2": "spell",
+            "a3": "invader",
+            "a4": "orb of return",
+            "c": "home ward bone"
+        },
+        {
+            "Q": "what do you lose when you die",
+            "a1": "souls",
+            "a2": "food",
+            "a3": "everything",
+            "a4": "weapons",
+            "c": "souls"
+        },
+        {
+            "Q": "what is a black knights weakness",
+            "a1": "back stab",
+            "a2": "nothing",
+            "a3": "poison",
+            "a4": "axe",
+            "c": "back stab"
+        },
+        {
+            "Q": "when do see the first dragon",
+            "a1": "undead burg",
+            "a2": "frielink",
+            "a3": "prison",
+            "a4": "bone fire",
+            "c": "back stab"
+        },
+        {
+            "Q": "how do you avoid invaders",
+            "a1": "don't be human",
+            "a2": "die",
+            "a3": "don't play",
+            "a4": "death",
+            "c": "don't be human"
+        },
+        {
+            "Q": "what is the first trap you run into",
+            "a1": "bolder",
+            "a2": "spikes",
+            "a3": "arrows",
+            "a4": "mouse trap",
+            "c": ""
+        }
+
+
+        
+    ],
+    "mediumMode": [
+        {
+            "Q": "What was the fix called to make pc dark souls better",
+            "a1": "ds fix",
+            "a2": "ds fix",
+            "a3": "ds fix",
+            "a4": "ds fix",
+            "c": "ds fix"
+        },
+        {
+            "Q": "what was the main issues with playing with friends",
+            "a1": "everything",
+            "a2": "everything",
+            "a3": "everything",
+            "a4": "everything",
+            "c": "everything"
+        },
+        {
+            "Q": "what is a parry",
+            "a1": "the best move",
+            "a2": "the best move",
+            "a3": "the best move",
+            "a4": "the best move",
+            "c": "the best move"
+        },
+        {
+            "Q": "what does a ring of sarcifis do",
+            "a1": "saves souls after death",
+            "a2": "saves souls after death",
+            "a3": "saves souls after death",
+            "a4": "saves souls after death",
+            "c": "saves souls after death"
+        },
+        {
+            "Q": "what do you get when you kill havel",
+            "a1": "havels ring",
+            "a2": "havels ring",
+            "a3": "havels ring",
+            "a4": "havels ring",
+            "c": "havels ring"
+        },
+        {
+            "Q": "what is a mimic",
+            "a1": "trap chest",
+            "a2": "trap chest",
+            "a3": "trap chest",
+            "a4": "trap chest",
+            "c": "trap chest"
+        },
+        {
+            "Q": "who gives you the white soap stone",
+            "a1": "solaire",
+            "a2": "solaire",
+            "a3": "solaire",
+            "a4": "solaire",
+            "c": "solaire"
+        },
+        {
+            "Q": "what was one of the best gifts to start with",
+            "a1": "master key",
+            "a2": "master key",
+            "a3": "master key",
+            "a4": "master key",
+            "c": "master key"
+        },
+        {
+            "Q": "what npc could you  summon for the gargoyle fight",
+            "a1": "solaire",
+            "a2": "solaire",
+            "a3": "solaire",
+            "a4": "solaire",
+            "c": "solaire"
+        },
+        {
+            "Q": "who keeps the age of frie going",
+            "a1": "gwyn",
+            "a2": "gwyn",
+            "a3": "gwyn",
+            "a4": "gwyn",
+            "c": "gwyn"
+        },
+        {
+            "Q": "what bosses where not in the dlcs",
+            "a1": "death demon",
+            "a2": "death demon",
+            "a3": "death demon",
+            "a4": "death demon",
+            "c": "death demon"
+        },
+        {
+            "Q": "what was the worst stat to level up",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "is it possible to return to the undead usylam",
+            "a1": "yes",
+            "a2": "yes",
+            "a3": "yes",
+            "a4": "yes",
+            "c": "yes"
+        },
+        {
+            "Q": "what was the op weapon that speed runners would use",
+            "a1": "BKH",
+            "a2": "BKH",
+            "a3": "BKH",
+            "a4": "BKH",
+            "c": "BKH"
+        },
+        {
+            "Q": "how do you get the Uchigatana early",
+            "a1": "kill merchant",
+            "a2": "kill merchant",
+            "a3": "kill merchant",
+            "a4": "kill merchant",
+            "c": "kill merchant"
+        },
+        {
+            "Q": "what do crstyla lizards drop",
+            "a1": "titanite",
+            "a2": "titanite",
+            "a3": "titanite",
+            "a4": "titanite",
+            "c": "titanite"
+        },
+        {
+            "Q": "what was a firekeeper souls for",
+            "a1": "to upgrad estus",
+            "a2": "to upgrad estus",
+            "a3": "to upgrad estus",
+            "a4": "to upgrad estus",
+            "c": "to upgrad estus"
+        },
+        {
+            "Q": "What place in dark souls caused low fps and lag",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "what did the red tear stone ring do",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "what is the name of the wolf you have to fight",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "what was one of the best shields in the game",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "what covent was the gold summons from",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "what do invaders get when they kill you",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "what item was used to heal but that wasn't its true purpose",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "how do you get lighing",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "Can you kill npc's",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "what mircal could return you to the bone fire",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "what ring made you fast in water",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "what was the bosses name before you got the loard vessel",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "who die after you ring the bells",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "what was the most hated thing to level up",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "what item allowed you to summon 1 exrat person",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "what was worse then poison",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "what happens when you get cursed",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "what was the hardest titanite to get",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "what class had you start out with nothing",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "Did Dark souls have a good antiy cheat",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "what gift killed the first boss quickly",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "on what boss do you have to die to progress",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "what was the best way to kill the final boss",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "What was one of the best armmor sets in the game",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "What ring made your magic stronger",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "what ring boosted miricals",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "what is used to heal",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "what item could be used over and over",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "what lets you right messages",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "what was the best way to stop a cheater",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "why was it so hard to play with friends",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "what is the name of the boss after blighttown",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        },
+        {
+            "Q": "what invader did you kill in blighttown but helps you with the next boss",
+            "a1": "reeeee",
+            "a2": "reeeee",
+            "a3": "reeeee",
+            "a4": "reeeee",
+            "c": "reeeee"
+        }
+    ],
+    "hardMode": [
+        {
+            "Q": "who drops you the dead hollow with the key",
+            "a1": "oscar",
+            "a2": "ds reork",
+            "a3": "ds x",
+            "a4": "ds",
+            "c": "oscar"
+        },
+        {
+            "Q": "is it possible to save solaire",
+            "a1": "yes",
+            "a2": "no",
+            "a3": "sometime",
+            "a4": "never",
+            "c": "yes"
+        },
+        {
+            "Q": "is it possible to beat dark souls with out dieing",
+            "a1": "no",
+            "a2": "yes",
+            "a3": "with glitches",
+            "a4": "never",
+            "c": "with glitches"
+        },
+        {
+            "Q": "how did you trade with the crow",
+            "a1": "restaring the game",
+            "a2": "dropping items",
+            "a3": "with items",
+            "a4": "killing it",
+            "c": "restaring the game"
+        },
+        {
+            "Q": "where was the crow located",
+            "a1": "undead Asylm",
+            "a2": "undead burg",
+            "a3": "firelink",
+            "a4": "anoro lond",
+            "c": "undead Asylm"
+        },
+        {
+            "Q": "how do you get back to the undead asylum",
+            "a1": "the giant crow",
+            "a2": "the giant",
+            "a3": "CATS",
+            "a4": "warpping",
+            "c": "the giant crow"
+        },
+        {
+            "Q": "where is the rusted ring",
+            "a1": "abyass",
+            "a2": "undead burg",
+            "a3": "undead asylm",
+            "a4": "anor londo",
+            "c": "undead asylm"
+        },
+        {
+            "Q": "could you parry havel",
+            "a1": "yes",
+            "a2": "no",
+            "a3": "somes",
+            "a4": "with expolits",
+            "c": "yes"
+        },
+        {
+            "Q": "how does solaire die",
+            "a1": "his own madness",
+            "a2": "you kill him",
+            "a3": "old age",
+            "a4": "he doesn't",
+            "c": "you kill him"
+        },
+        {
+            "Q": "who kills the fire keeper",
+            "a1": "lautrec",
+            "a2": "solaire",
+            "a3": "frampt",
+            "a4": "you",
+            "c": "lautrec"
+        },
+        {
+            "Q": "what item is used to get revange for the fire keeper",
+            "a1": "black eye orb",
+            "a2": "red eye orb",
+            "a3": "blue eye orb",
+            "a4": "no item",
+            "c": "black eye orb"
+        },
+        {
+            "Q": "when does the fire keeper die",
+            "a1": "after you ring the bells",
+            "a2": "after you free demons",
+            "a3": "after you die enough",
+            "a4": "never",
+            "c": "after you ring the bells"
+        },
+        {
+            "Q": "who makes  lighting weapons",
+            "a1": "giants",
+            "a2": "andre",
+            "a3": "Giant Blacksmith",
+            "a4": "no one",
+            "c": "Giant Blacksmith"
+        },
+        {
+            "Q": "what mircal could heal you and allis",
+            "a1": "soothing sunlight",
+            "a2": "lighting heal",
+            "a3": "great heal",
+            "a4": "no mircal",
+            "c": "soothing sunlight"
+        },
+        {
+            "Q": "what summon could take a boss out quickly",
+            "a1": "no one",
+            "a2": "solaire",
+            "a3": "tarkus",
+            "a4": "mildrid",
+            "c": "tarkus"
+        },
+        {
+            "Q": "what was a good way to frame souls with no effort",
+            "a1": "using the red drake",
+            "a2": "using cheats",
+            "a3": "using exploits",
+            "a4": "using god souls",
+            "c": "using the red drake"
+        },
+        {
+            "Q": "how do you get the drake sword",
+            "a1": "from the dragons tell",
+            "a2": "boars tell",
+            "a3": "Red drakes tell",
+            "a4": "A chest",
+            "c": "Red drakes tell"
+        },
+        {
+            "Q": "what enemy drops demon titanite",
+            "a1": "Titanite demon",
+            "a2": "hell demos",
+            "a3": "ice demon",
+            "a4": "who knows",
+            "c": "Titanite demon"
+        },
+        {
+            "Q": "whats the drop rate of the black kight halberd",
+            "a1": "20%",
+            "a2": "5%",
+            "a3": ".5%",
+            "a4": "15%",
+            "c": "20%"
+        },
+        {
+            "Q": "what enemy drops Titanite catch pole ",
+            "a1": "Titanite demon",
+            "a2": "Gywn",
+            "a3": "Demon",
+            "a4": "Hell walker",
+            "c": "Titanite demon"
+        },
+        {
+            "Q": "what is the rarest enemy in dark souls",
+            "a1": "vagrant",
+            "a2": "demons",
+            "a3": "ghost",
+            "a4": "mushroom beast",
+            "c": "agrant"
+        },
+        {
+            "Q": "what was the hardest bone fire to find",
+            "a1": "sens bonefire",
+            "a2": "snake bone fire",
+            "a3": "every bone fire",
+            "a4": "no bone fire",
+            "c": "sens bonefire"
+        },
+        {
+            "Q": "what boss could you summon for a boss fight",
+            "a1": "sif",
+            "a2": "gwyn",
+            "a3": "Artorias",
+            "a4": "no one",
+            "c": "sif"
+        },
+        {
+            "Q": "what ring lets you walk in the abyass.",
+            "a1": "abyass ring",
+            "a2": "Covenant of Artorias",
+            "a3": "havel ring",
+            "a4": "abyass waker ring",
+            "c": "Covenant of Artorias"
+        },
+        {
+            "Q": "who trys to talk you into not lighting the fire",
+            "a1": "no one ",
+            "a2": "frapt",
+            "a3": "Kaathe",
+            "a4": "death",
+            "c": "Kaathe"
+        },
+        {
+            "Q": "what key is used to free lautrec",
+            "a1": "mystery key",
+            "a2": "prison key",
+            "a3": "key",
+            "a4": "none key needed",
+            "c": "mystery key"
+        },
+        {
+            "Q": "is lautrec good",
+            "a1": "no",
+            "a2": "yes",
+            "a3": "sometimes",
+            "a4": "who?",
+            "c": "no"
+        },
+        {
+            "Q": "how do you join the sunlight covent",
+            "a1": "helping people",
+            "a2": "dieing",
+            "a3": "time",
+            "a4": "sun light medals",
+            "c": "helping people"
+        },
+        {
+            "Q": "what covent lets you fight gwyndolin earler",
+            "a1": "sunlight",
+            "a2": "none of them",
+            "a3": "dark moon blade",
+            "a4": "undead covent",
+            "c": "dark moon blade"
+        },
+        {
+            "Q": "where is the best place to farm twinkling titanite",
+            "a1": "great hollow tree",
+            "a2": "anor londo",
+            "a3": "crystal world",
+            "a4": "no wear",
+            "c": "great hollow tree"
+        },
+        {
+            "Q": "what boss can you beat with bare hands",
+            "a1": "undying Doot",
+            "a2": "demon",
+            "a3": "ceaseless discharge",
+            "a4": "Frrapt",
+            "c": "ceaseless discharge"
+        },
+        {
+            "Q": "who is the creator of dark souls",
+            "a1": "james bowol",
+            "a2": "Hidet artuy",
+            "a3": "Hidetaka Miyazaki",
+            "a4": "rick james",
+            "c": "Hidetaka Miyazaki"
+        },
+        {
+            "Q": "who is  sleeping at sens gate",
+            "a1": "mo one",
+            "a2": "who",
+            "a3": "solaire",
+            "a4": "Siegmeyer of Catarina",
+            "c": "Siegmeyer of Catarina"
+        },
+        {
+            "Q": "hwo many sunlight medals do you need to reach rank 2 in sunlight covent",
+            "a1": "30",
+            "a2": "20",
+            "a3": "10",
+            "a4": "60",
+            "c": "30"
+        },
+        {
+            "Q": "what is the storngest lighting mircal",
+            "a1": "sunlight spear",
+            "a2": "great lighing spear",
+            "a3": "lighting",
+            "a4": "arc",
+            "c": "sunlight spear"
+        },
+        {
+            "Q": "what company didn't help make darksouls",
+            "a1": "ninetodo",
+            "a2": "Form soft",
+            "a3": "bandi namco",
+            "a4": "Sony Interactive Entertainment",
+            "c": "ninetodo"
+        },
+        {
+            "Q": "What spell do most speed runners use",
+            "a1": "lighting",
+            "a2": "magic sheild",
+            "a3": "crystal soul spear",
+            "a4": "soul spear",
+            "c": "crystal soul spear"
+        },
+        {
+            "Q": "dark souls could have how many players at once ",
+            "a1": "5",
+            "a2": "6",
+            "a3": "20",
+            "a4": "4",
+            "c": "4"
+        },
+        {
+            "Q": "what corpses had twin humanities",
+            "a1": "female",
+            "a2": "male",
+            "a3": "dog",
+            "a4": "cat",
+            "c": "female"
+        },
+        {
+            "Q": "what is the drop rate of the",
+            "a1": "oolacile catalyst",
+            "a2": "black knight halbert",
+            "a3": "dark hND",
+            "a4": "SWORD",
+            "c": "oolacile catalyst"
+        },
+        {
+            "Q": "what item was needed to get dlc worlds",
+            "a1": "pendent",
+            "a2": "wand",
+            "a3": "staff",
+            "a4": "key",
+            "c": "pendent"
+        },
+        {
+            "Q": "what are you in this game",
+            "a1": "the chosen undead",
+            "a2": "god",
+            "a3": "demon",
+            "a4": "hero",
+            "c": "the chosen undead"
+        },
+        {
+            "Q": "what is the curse placed on you",
+            "a1": "cruse of undead",
+            "a2": "bad luck",
+            "a3": "death",
+            "a4": "undying",
+            "c": "ruse of undead"
+        },
+        {
+            "Q": "what is the best ring",
+            "a1": "ring of favor",
+            "a2": "flip ring",
+            "a3": "ring of rings",
+            "a4": "havels ring",
+            "c": "ring of favor"
+        },
+        {
+            "Q": "how many rings could you wear at once",
+            "a1": "2",
+            "a2": "4",
+            "a3": "1",
+            "a4": "3",
+            "c": "2"
+        },
+        {
+            "Q": "what ring boosted the amount of souls you got",
+            "a1": "gold serpent ring",
+            "a2": "silver serpent ring",
+            "a3": "souls ring",
+            "a4": "none of theses",
+            "c": "silver serpent ring"
+        },
+        {
+            "Q": "what item could you wear to boost item discover and souls gained but slowy draind health",
+            "a1": "wonder wond",
+            "a2": "chest head",
+            "a3": "Symbol of Avarice",
+            "a4": "life drain head gear",
+            "c": "Symbol of Avarice"
+        },
+        {
+            "Q": "who is sifs masters",
+            "a1": "solaire",
+            "a2": "artorias",
+            "a3": "gwyn",
+            "a4": "no one",
+            "c": "artorias"
+        },
+        {
+            "Q": "what npc could be summoned for the last boss fight",
+            "a1": "no one",
+            "a2": "ildrid",
+            "a3": "anyone",
+            "a4": "solaire",
+            "c": "solaire"
+        },
+        {
+            "Q": "Who is the best npc",
+            "a1": "solaire",
+            "a2": "andre",
+            "a3": "oscar",
+            "a4": "mildrid",
+            "c": "solaire"
+        }
+       
+    ],
+     "randomQ": [
+
+            {
+        
+            }
+
+     ]
+}
